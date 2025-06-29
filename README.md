@@ -1,5 +1,6 @@
 ## Hi Everyone, my name is João Pedro 👋
 * Atualmente estou a procura de emprego na área
+* Estou cursando ánalise e desenvolvimento de sistemas
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpcamilo___/)
@@ -18,7 +19,10 @@
 
 
 ## Portfólio:
+* ![Site - Pessoal](https://github.com/Jppcamilo/site-pessoal.git)
+  Este repositorio mostra minhas materias no ensino médio e os projetos que fiz la.
 
+  
 ## Skill 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
