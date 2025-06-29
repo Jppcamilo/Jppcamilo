@@ -20,7 +20,7 @@
 
 ## Portfólio:
 * ![Site - Pessoal](https://github.com/Jppcamilo/site-pessoal.git)
-  Este repositorio mostra minhas materias no ensino médio e os projetos que fiz la.
+  Este repositorio mostra minhas materias no ensino médio e os projetos que fiz.
 
   
 ## Skill 
