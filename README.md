@@ -1,47 +1,59 @@
-## Hi Everyone, my name is João Pedro 👋
-* Atualmente estou a procura de emprego na área
-* Estou cursando ánalise e desenvolvimento de sistemas
+<h1 align="center">Hi Everyone, my name is João Pedro 👋</h1>
 
+<p align="center">
+  <em>Estudante de Análise e Desenvolvimento de Sistemas na FIAP e Desenvolvedor Full-Stack. Atualmente em transição da área administrativa para minha primeira oportunidade em tecnologia.</em>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpcamilo___/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3opedrocamilo910b83298/)
+### 👨‍💻 Sobre mim
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jppcamilo/Jppcamilo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jppcamilo/Jppcamilo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jppcamilo/Jppcamilo/output/pacman-contribution-graph.svg">
-</picture>
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💼 Tenho experiência com rotinas administrativas (ERP TOTVS) e agora busco atuar no desenvolvimento de software.
+- 🚀 Foco em desenvolvimento Full-Stack e Mobile.
+- 💡 Criador de projetos como **KingsMarket** (Java/Spring Boot) e **AdotePet** (React Native).
 
+### 🛠️ Minhas Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jppcamilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <!-- Linguagens e Ferramentas baseadas em image_2c7cd9.png e seus projetos recentes -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
+### 📁 Portfólio
 
-## Portfólio:
-* ![Site - Pessoal](https://github.com/Jppcamilo/site-pessoal.git)
-  Este repositorio mostra minhas materias no ensino médio e os projetos que fiz.
-* ![Cadastro]((https://github.com/Jppcamilo/Cadastro_Produto))
-  Este repositorio mostra um dos meus estudos nas férias sobre Java.
-  
-## Skill 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- **[Site - Pessoal](#):** Este repositório mostra minhas matérias no ensino médio e os projetos que fiz.
+- **[Cadastro](#):** Este repositório mostra um dos meus estudos nas férias sobre Java.
+- **KingsMarket:** Back-end focado em gestão construído com Java 17 e Spring Boot.
+- **Beba Água / AdotePet:** Aplicativos móveis focados em saúde e adoção com React Native e Expo.
 
-<!--
-**Jppcamilo/Jppcamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas (Com Cor de Fundo Customizada)
 
-Here are some ideas to get you started:
+<div align="center">
+  <!-- Aqui você altera o bg_color para mudar a cor de fundo do card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jppcamilo&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Estatísticas do GitHub" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Minigame (Snake Contribution Graph)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jppcamilo/Jppcamilo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+### 📫 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joãopedrocamilo910b83298" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jpcamilopereira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
