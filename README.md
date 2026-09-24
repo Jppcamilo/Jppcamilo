@@ -118,7 +118,7 @@ Precisa começar.
 
 <hr>
 
-<<h2>🛠️ MINHAS SKILLS</h2>
+<h2>🛠️ MINHAS SKILLS</h2>
 
 <h3>Linguagens</h3>
 
@@ -129,7 +129,8 @@ Precisa começar.
 <h3>Frameworks & Ferramentas</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,oracle,docker,git,github&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,react,docker,git,github&perline=5&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=ED1C24" alt="Oracle"/>
 </p>
 
 </td>
@@ -257,8 +258,8 @@ durante minha formação.
 <div align="center">
 
 <img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=Jppcamilo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED1C24&icon_color=ED1C24&text_color=FFFFFF&include_all_commits=true"
+width="90%"
+src="./profile/stats.svg"
 alt="GitHub Stats"
 />
 
