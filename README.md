@@ -9,38 +9,6 @@
 <table>
 <tr>
 
-<td width="30%" align="center">
-
-<img src="./assets/avatar.png" width="180px" alt="João Pedro Camilo"/>
-
-</td>
-
-<td width="70%">
-
-<h1>João Pedro Camilo</h1>
-
-<h3>
-<code>FULL-STACK DEVELOPER</code> ·
-<code>MOBILE</code> ·
-<code>IoT</code>
-</h3>
-
-<p>
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP,
-desenvolvedor em formação e apaixonado por transformar ideias
-em aplicações reais.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
 <td width="35%" valign="top">
 
 <h2>👤 SOBRE MIM</h2>
@@ -98,13 +66,9 @@ Transformar ideias em aplicações funcionais, unindo
 <img src="https://img.shields.io/badge/LINKEDIN-ED1C24?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br><br>
-
 <a href="mailto:jpcamilopereira@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-ED1C24?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-<br><br>
 
 <a href="https://github.com/Jppcamilo">
 <img src="https://img.shields.io/badge/GITHUB-ED1C24?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
