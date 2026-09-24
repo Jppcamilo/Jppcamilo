@@ -118,44 +118,18 @@ Precisa começar.
 
 <hr>
 
-<h2>🛠️ MINHAS SKILLS</h2>
+<<h2>🛠️ MINHAS SKILLS</h2>
 
 <h3>Linguagens</h3>
 
 <p>
-
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED1C24" alt="Java"/>
-
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=ED1C24" alt="TypeScript"/>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=ED1C24" alt="JavaScript"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=ED1C24" alt="C++"/>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ED1C24" alt="Python"/>
-
+<img src="https://skillicons.dev/icons?i=java,ts,js,cpp,python&perline=5&theme=dark" />
 </p>
 
 <h3>Frameworks & Ferramentas</h3>
 
 <p>
-
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=ED1C24" alt="Spring Boot"/>
-
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=ED1C24" alt="React Native"/>
-
-<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=ED1C24" alt="Oracle"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=ED1C24" alt="Docker"/>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=ED1C24" alt="Git"/>
-
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ED1C24" alt="GitHub"/>
-
+<img src="https://skillicons.dev/icons?i=spring,react,oracle,docker,git,github&perline=6&theme=dark" />
 </p>
 
 </td>
