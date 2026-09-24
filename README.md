@@ -33,11 +33,11 @@
 - **[KingsMarket](https://github.com/Jppcamilo/KingsMarket.git):** Back-end focado em gestão construído com Java 17 e Spring Boot.
 - **[Site - Pessoal](https://github.com/Jppcamilo/site-pessoal.git):** Repositório com minhas matérias do ensino médio e projetos iniciais.
 
-### 📊 Estatísticas (Com Cor de Fundo Customizada)
+### 📊 Estatísticas
 
 <div align="center">
   
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jppcamilo&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF)
+  ![Estatísticas do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Jppcamilo&theme=radical&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
 </div>
 
