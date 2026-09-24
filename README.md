@@ -271,13 +271,13 @@ durante minha formação.
 <div align="center">
 
 <img
-width="90%"
+width="70%"
 src="./profile/stats.svg"
 alt="GitHub Stats"
 />
 
 <img
-width="48%"
+width="70%"
 src="https://streak-stats.demolab.com/?user=Jppcamilo&hide_border=true&background=0D1117&ring=ED1C24&fire=ED1C24&currStreakNum=FFFFFF&currStreakLabel=ED1C24&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
 alt="GitHub Streak"
 />
@@ -289,13 +289,13 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-width="90%"
+width="70%"
 src="https://img.shields.io/github/followers/Jppcamilo?style=for-the-badge&label=FOLLOWERS&color=ED1C24&labelColor=0D1117"
 alt="GitHub Followers"
 />
 
 <img
-width="90%"
+width="70%"
 src="https://img.shields.io/github/stars/Jppcamilo?style=for-the-badge&label=TOTAL%20STARS&color=ED1C24&labelColor=0D1117"
 alt="GitHub Stars"
 />
