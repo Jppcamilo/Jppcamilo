@@ -13,7 +13,7 @@
 
 <h2>👤 SOBRE MIM</h2>
 
-<h3>João Pedro Camilo</h3>
+<h3>João Pedro Pereira Camilo</h3>
 
 <p>
 🎓 <strong>Análise e Desenvolvimento de Sistemas — FIAP</strong>
@@ -44,7 +44,7 @@ e projetos que conectam diferentes tecnologias.
 <h3>📍 LOCALIZAÇÃO</h3>
 
 <p>
-<strong>Ceará, Brasil 🇧🇷</strong>
+<strong>São Paulo (SP), Brasil 🇧🇷</strong>
 </p>
 
 <hr>
@@ -123,14 +123,27 @@ Precisa começar.
 <h3>Linguagens</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,cpp,python&perline=5&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=java,ts,js,cpp,python&perline=5&theme=dark"
+    height="55"
+    alt="Linguagens"
+  />
 </p>
 
 <h3>Frameworks & Ferramentas</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,docker,git,github&perline=5&theme=dark" />
-<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=ED1C24" alt="Oracle"/>
+  <img
+    src="https://skillicons.dev/icons?i=spring,react,docker,git,github&perline=5&theme=dark"
+    height="55"
+    alt="Frameworks e ferramentas"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oracle/oracle-original.svg"
+    height="55"
+    alt="Oracle"
+  />
 </p>
 
 </td>

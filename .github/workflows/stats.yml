@@ -22,14 +22,15 @@ jobs:
         with:
           card: stats
           options: >-
-            username=Jppcamilo&
-            show_icons=true&
-            hide_border=true&
-            bg_color=0D1117&
-            title_color=ED1C24&
-            icon_color=ED1C24&
-            text_color=FFFFFF&
-            include_all_commits=true
+           username=Jppcamilo&
+           show_icons=true&
+           hide_border=true&
+           bg_color=0D1117&
+           title_color=FFFFFF&
+           icon_color=ED1C24&
+           text_color=FFFFFF&
+           ring_color=ED1C24&
+           include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
